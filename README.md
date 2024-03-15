@@ -29,3 +29,6 @@ OBJECTIVE -- This Dashboard was built with the purpose of improving employee ret
 3) IMPROVE EMPLOYEE EXPERIENCE.
 4) INCREASE WORKFORCE PRODUCTIVITY.
 5) GAIN EMPLOYEE TRUST.
+
+   ![Screenshot 2024-03-15 172125](https://github.com/pratikkalantri/HR-Analytics-Dashboard/assets/101921397/d573d381-83fd-4943-ae12-3cad0deab940)
+
