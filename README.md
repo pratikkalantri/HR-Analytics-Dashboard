@@ -32,3 +32,5 @@ OBJECTIVE -- This Dashboard was built with the purpose of improving employee ret
 
    ![Screenshot 2024-03-15 172125](https://github.com/pratikkalantri/HR-Analytics-Dashboard/assets/101921397/d573d381-83fd-4943-ae12-3cad0deab940)
 
+
+Special Thanks RishabhMishra .
